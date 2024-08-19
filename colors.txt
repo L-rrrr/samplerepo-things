@@ -1,3 +1,5 @@
 blue
 red
 white
+
+I want to add some more colors but what should I add?
